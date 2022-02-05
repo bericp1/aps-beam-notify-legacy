@@ -1,4 +1,4 @@
-# `aps-beam`
+# `abs-beam-notify`
 
 A simple script that runs forever and hits a Slack Incoming Webhook whenever the "Operations Status"
 changes for the Argonne National Lab Advanced Photon Source.
